@@ -1,2 +1,8 @@
-# cheboard
-cheboard=[che]mistry+key[board]
+# 项目说明
+化学输入法
+
+# 功能介绍
+输入拼音，候选项中含有化学式。如输入tan'suan'qing'na，候选项中含有$Na_2CO_3$
+
+# 开发进度
+新建文件夹
